@@ -1,14 +1,14 @@
-#Initialize, Commit, and Branch Basics
+# Initialize, Commit, and Branch Basics
 
-##Objective
+## Objective
 - Initialize a new Git repository.
 - Create a few files and commit them.
 - Create a new branch, make changes, and merge it back to the main branch.
 
-##Prerequisites
+## Prerequisites
 - Git installed on your system.
 
-##Steps
+## Steps
 
 ### 1. Initialize a New Repository
 ```bash
