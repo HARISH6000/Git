@@ -52,7 +52,7 @@ nothing added to commit but untracked files present (use "git add" to track)
 ```
 We can see that the .env file, log files, and the cache folder are ignored, with only the .gitignore file appearing as untracked.
 
-4. **Commit Changes**
+### 4. **Commit Changes**
 ```bash
 git add .
 git commit -m "Add .gitignore and track necessary files"
