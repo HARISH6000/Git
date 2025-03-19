@@ -22,13 +22,11 @@ Initialized empty Git repository in C:/Presidio/PreInternshipTraining/Testing/.g
 
 ### 2. Create and Commit Files
 I have created two Text files (file1.txt and file2.txt) both consisting of "<filename> version 1" as their content.
-commands:
 ```bash
 git add .
 git commit -m "Initial commit with basic files"
 ```
 This stages the changes in the file and git commit captures a snapshot of the staged changes and saves them to your Git repository's history. It acts like a checkpoint.
-output:
 ```bash
 [master (root-commit) ab5af6d] initial commit with basic files
  2 files changed, 2 insertions(+)
