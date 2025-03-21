@@ -60,7 +60,7 @@ git push -u origin fix
 ### 4. Open a Pull Request
 - Go to your GitHub repository.
 - Go to `fix` branch and click on `Compare & pull request`.
-- Add a title, description, and assign reviewers.
+- Add a title and description.
 
 ### 5. Perform Code Review and Merge
 - Review the code for issues or improvements.
